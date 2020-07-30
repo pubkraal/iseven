@@ -1,2 +1,4 @@
 github.com/pubkraal/isodd v0.0.0-20200730191208-346d18e2d6a2 h1:HFC5TeBLtnkQSkSTWfe6kIzlIHXU8lzegPLWSVHd0Vw=
 github.com/pubkraal/isodd v0.0.0-20200730191208-346d18e2d6a2/go.mod h1:A7CT4jh+2nHFhTv+MyJeB/01CTLd+ATQnRcu9uPZ28I=
+github.com/pubkraal/isodd v1.0.0 h1:3SzdMCaBgIqrz7qVqdchZBZh9t0UiaIoLLdcZrUpZTI=
+github.com/pubkraal/isodd v1.0.0/go.mod h1:A7CT4jh+2nHFhTv+MyJeB/01CTLd+ATQnRcu9uPZ28I=
